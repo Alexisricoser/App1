@@ -1,3 +1,4 @@
 # App 1
 
-contrib de Nacho
+contribucion de Alexis, contrib de Nacho
+
