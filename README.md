@@ -1,5 +1,3 @@
-##### Creado por Alexis Rico e Ignacio Marco
-## shaaaaaw
-###### the silksong is reaaaaaaal
 # App 1
-## Creado por Alexis Rico e Ygnacio Marco
+## Creado por Alexis Rico e Ignacio Marco
+##### Creado por Alexis Rico e Ignacio Marco
