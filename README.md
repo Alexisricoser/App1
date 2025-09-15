@@ -6,4 +6,4 @@ pedro sanchez dimision
 
 comiit cimmmt
 
-patata es mas veridico que peruanos
+patata es mas veridico que peruano
