@@ -2,5 +2,6 @@
 
 contribucion de Alexis, contrib de Ignacio
 
-comiit cimmmt
+pedro sanchez dimision
 
+comiit cimmmt
