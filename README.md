@@ -2,4 +2,4 @@
 
 contribucion de Alexis, contrib de Ignacio
 
-patata
+pedro sanchez dimision
