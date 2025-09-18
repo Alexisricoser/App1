@@ -1,4 +1,7 @@
 # App 1
 
-contribucion de Alexis, contrib de Ignacio
+faker
 
+faker juega lulul ap si de verdad eres buen jugador
+
+alpaca
