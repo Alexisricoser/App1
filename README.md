@@ -2,4 +2,4 @@
 
 contribucion de Alexis, contrib de Ignacio
 
-Faker juega lulu ap si de verdad eres buen jugador
+faker juega lulu ap si de verdad eres buen jugador
