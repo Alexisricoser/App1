@@ -1,7 +1,4 @@
 # App 1
 
-faker
+faker juega lulu ap si de verdad eres buen jugador
 
-faker juega lulul ap si de verdad eres buen jugador
-
-alpaca
